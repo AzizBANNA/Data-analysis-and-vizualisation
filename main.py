@@ -39,6 +39,6 @@ inset_ax.grid()
 plt.yscale(value='log')
 plt.legend()
 plt.title('incidence in whole germany')
-plt.savefig('homeworks/chapter_6/ex1_covid_plot/plot.pdf')
+plt.savefig('plot.pdf')
 plt.show()
 
